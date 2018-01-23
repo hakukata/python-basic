@@ -1,4 +1,7 @@
 ![cover](https://raw.githubusercontent.com/looly/python-basic/master/cover_small.jpg)
+
+> 本开源书 forked from [零基础学 Python](https://github.com/looly/python-basic)，作者为 [looly](https://github.com/looly)，欢迎大家 star 原作者的 [repo](https://github.com/looly/python-basic)，以便获得最新更新，谢谢！
+
 # 声明
 
 这个“零基础学Python”并不是我写的，原内容来自于[这里](https://github.com/qiwsir/ITArticles/blob/master/BasicPython/index.md)，我只是将其Github的MarkDown内容整理成了Gitbook格式方便阅读。
